@@ -3,7 +3,9 @@
 require([
 		'app',
 
-		'modules/alertify'
+		'modules/alertify',
+
+		'apps/user/user_app'
 	],
 	function(App) {
 		App.start({
