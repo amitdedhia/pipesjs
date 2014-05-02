@@ -1,0 +1,18 @@
+# IDE
+.idea
+
+# Logs
+logs
+*.logs
+
+# Runtime
+pids
+*.pids
+*.seed
+
+# Testing artifacts
+lib-cov
+coverage
+
+.grunt
+node_modules
